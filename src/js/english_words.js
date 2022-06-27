@@ -1,5 +1,5 @@
 export const wordsArrey = {
-    fruits: {
+    'fruits / фрукты': {
         fruit: 'фрукт',
         apricot: 'абрикос',
         pineapple: 'ананас',
@@ -21,7 +21,7 @@ export const wordsArrey = {
         persimmon: 'хурма',
         pomelo: 'помело'
     },
-    vegetables: {
+    'vegetables/овощи': {
         vegetable: 'овощ',
         basil: 'базилик',
         eggplant: 'баклажаны',
